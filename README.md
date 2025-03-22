@@ -24,7 +24,7 @@ Claude Desktop 的火山引擎知识库 MCP 服务器，提供知识库搜索和
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/[your-username]/volc-kb-mcp.git
+git clone git@github.com:suqidan/volc-kb-mcp.git
 cd volc-kb-mcp
 ```
 
@@ -131,7 +131,7 @@ response = await chat_completion(messages)
 
 ## 作者
 
-[Your Name]
+suqidan
 
 ## 致谢
 
