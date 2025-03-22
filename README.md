@@ -57,6 +57,7 @@ pip install -r requirements.txt
 
 ### 使用方法
 设置好 Claude MCP JSON 配置后，你只需要直接告诉 Claude 你要使用知识库，它就会询问你添加对应的信息，包含 ak, sk, account_id 以及 collection_namme
+![Uploading image.png…]()
 
 1. 首次使用时配置凭证：
 ```python
