@@ -1,0 +1,3 @@
+requests>=2.31.0
+volcengine>=1.0.0
+git+https://github.com/anthropics/model-context-protocol.git 
