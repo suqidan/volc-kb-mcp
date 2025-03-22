@@ -18,7 +18,7 @@ Claude Desktop 的火山引擎知识库 MCP 服务器，提供知识库搜索和
 
 - Python 3.10 或更高版本
 - Claude Desktop
-- 火山引擎账号和知识库服务
+- 你需要注册一个火山引擎账号，开通知识库服务，并且创建一个知识库
 
 ### 安装
 
@@ -56,6 +56,7 @@ pip install -r requirements.txt
 ```
 
 ### 使用方法
+设置好 Claude MCP JSON 配置后，你只需要直接告诉 Claude 你要使用知识库，它就会询问你添加对应的信息，包含 ak, sk, account_id 以及 collection_namme
 
 1. 首次使用时配置凭证：
 ```python
